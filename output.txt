@@ -1,0 +1,5 @@
+Bob's Total credits: 17
+Bob's Total math credits: 5
+Bob's Total comp credits: 8
+Bob's gpa: 46.400000000000006
+Bob's majorGpa: 41.2
